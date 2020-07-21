@@ -6,4 +6,6 @@
 * President of MAPconcierge Inc.
 
 ## グラレコ
-![](https://miro.medium.com/max/2100/1*NDrvFmN8JKxmMsRT1PYDtw.jpeg)
+<img src=https://miro.medium.com/max/2100/1*NDrvFmN8JKxmMsRT1PYDtw.jpeg width=200>
+<img src=https://miro.medium.com/max/2100/1*NDrvFmN8JKxmMsRT1PYDtw.jpeg width=200>
+<img src=https://miro.medium.com/max/2100/1*NDrvFmN8JKxmMsRT1PYDtw.jpeg width=200>
