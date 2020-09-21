@@ -10,3 +10,4 @@
 
 
 ## 画像を貼るサンプル
+![QR](https://github.com/mapconcierge/mapconcierge/blob/master/img/snapcode-Nature%20Background.png?raw=true)
