@@ -1,5 +1,5 @@
 # Taichi Furuhashi a.k.a @mapconcierge
-![Twitter Follow](https://img.shields.io/twitter/follow/mapconcierge?style=social)](https://twitter.com/mapconcierge)
+![Twitter Follow](https://img.shields.io/twitter/follow/mapconcierge?style=social)
 
 ## Main Work
 * Professor of GSC, Aoyama Gakuin University
