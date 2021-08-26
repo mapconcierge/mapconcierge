@@ -6,6 +6,10 @@
 * Director of CrisisMappers Japan
 * President of MAPconcierge Inc.
 
+* Public CV: http://goo.gl/lcx6wH
+* Photo/Image: http://goo.gl/XPvkGh
+* Google Scholar Profile: http://goo.gl/46yTjx
+
 ## グラレコ
 <img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg width=200><img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg width=200>
 
