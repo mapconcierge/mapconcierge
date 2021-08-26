@@ -2,6 +2,10 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/mapconcierge?style=social)
 
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao.jpg?raw=true" height="200">
+<img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao2.jpg?raw=true" height="200">
+<img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao3.jpg?raw=true" height="200">
+
+
 
 ## Main Work
 * Professor of GSC, Aoyama Gakuin University
