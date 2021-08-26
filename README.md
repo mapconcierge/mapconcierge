@@ -1,6 +1,8 @@
 # Taichi Furuhashi a.k.a @mapconcierge
 ![Twitter Follow](https://img.shields.io/twitter/follow/mapconcierge?style=social)
 
+<img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao.jpg?raw=true" height="200">
+
 ## Main Work
 * Professor of GSC, Aoyama Gakuin University
 * Director of CrisisMappers Japan
@@ -15,6 +17,10 @@
 
 
 ## 略歴・紹介文
+
+### 300文字版
+青山学院大学教授、NPO法人クライシスマッパーズ・ジャパン理事長、マップコンシェルジュ㈱代表。専門は地図学。地理空間情報の利活用を軸に、Googleジオサービス、オープンソースGIS、オープンデータ(OpenStreetMap、PLATEAU、東京都デジタルツイン等)の技術コンサルティングや教育指導を行なっている。ここ数年は「一億総伊能化」を掲げ、みんなで世界地図をつくるOSMに熱を上げ、360°パノラマ、ドローンを駆使して、地図を作る為にフィールドを駆け巡っている。
+
 ### 300文字版
 青山学院大学教授、マップコンシェルジュ㈱代表取締役社長、NPO法人クライシスマッパーズ・ジャパン理事長、東京大学空間情報科学研究センター協力研究員、オープンストリートマップ・ファウンデーション・ジャパン/OSGeo財団日本支部所属。東京大学大学院新領域創成科学研究科修了（環境学修士）。専門は地図学・空間情報学。地理空間情報の利活用を軸に、Googleジオサービス、オープンソースGIS、オープンデータの技術コンサルティングや教育指導を行なっている。近年は「一億総伊能化」をキーワードにOpenStreetMapに熱を上げ、パノラマ技術、ドローンを駆使して、地図を作るためにフィールドを駆け巡っている。
 
