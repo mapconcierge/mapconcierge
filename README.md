@@ -7,7 +7,7 @@
 
 ## Main Work
 * Professor of GSC, Aoyama Gakuin University
-* President of CrisisMappers Japan, NPO
+* President of CrisisMappers Japan, NPO with DRONEBIRD and JapanFlyingLabs projects
 * President of MAPconcierge Inc.
 
 * Public CV: http://goo.gl/lcx6wH
