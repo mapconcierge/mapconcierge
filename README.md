@@ -7,7 +7,7 @@
 
 ## Main Work
 * Professor of GSC, Aoyama Gakuin University
-* Director of CrisisMappers Japan
+* President of CrisisMappers Japan
 * President of MAPconcierge Inc.
 
 * Public CV: http://goo.gl/lcx6wH
