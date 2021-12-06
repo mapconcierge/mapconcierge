@@ -3,8 +3,6 @@
 
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao2.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao3.jpg?raw=true" height="200">
 
-
-
 ## Main Work
 * Professor of GSC, Aoyama Gakuin University
 * President of CrisisMappers Japan, NPO with DRONEBIRD and JapanFlyingLabs projects
@@ -13,6 +11,9 @@
 * Public CV: http://goo.gl/lcx6wH
 * Photo/Image: http://goo.gl/XPvkGh
 * Google Scholar Profile: http://goo.gl/46yTjx
+
+![Taichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapconcierge)
+
 
 ## グラレコ
 <img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg width=200><img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg width=200>
