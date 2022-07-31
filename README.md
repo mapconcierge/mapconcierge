@@ -1,5 +1,23 @@
 # Taichi Furuhashi a.k.a @mapconcierge
-![Twitter Follow](https://img.shields.io/twitter/follow/mapconcierge?style=social)
+
+<p align="left"> 
+  <a href="https://github.com/mapconcierge/mapconcierge/">
+    <img src="https://komarev.com/ghpvc/?username=mapconcierge" alt="mapconcierge" />
+  </a>
+  <a href="http://twitter.com/mapconcierge">
+    <img height="20" src="https://img.shields.io/twitter/follow/mapconcierge?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/mapconcierge">
+    <img height="20" src="https://img.shields.io/github/followers/mapconcierge?label=follow&logo=github&style=flat" />
+  </a>
+
+  <a href="http://qiita.com/mapconcierge">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/mapconcierge/posts.svg" />
+  </a>
+  <a href="http://qiita.com/mapconcierge">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/mapconcierge/contributions.svg" />
+  </a>
+</p>
 
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao2.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao_remini.jpg?raw=true" height="200">
 
