@@ -36,11 +36,11 @@
 ![Taichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapconcierge)
 
 
-## グラレコ
+## Graphic Recording
 <img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg width=200><img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg width=200>
 
 
-## 略歴・紹介文
+## Profile
 
 ### 200文字版
 青山学院大学教授、NPO法人クライシスマッパーズ・ジャパン理事長、マップコンシェルジュ㈱代表。専門は地図学。地理空間情報の利活用を軸に、Googleジオサービス、オープンソースGIS、オープンデータ(OpenStreetMap、PLATEAU、東京都デジタルツイン等)の技術コンサルティングや教育指導を行なっている。ここ数年は「一億総伊能化」を掲げ、みんなで世界地図をつくるOSMに熱を上げ、360°パノラマ、ドローンを駆使して、地図を作る為にフィールドを駆け巡っている。
