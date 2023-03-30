@@ -44,7 +44,7 @@
 
 << Bio >>
 ### In English
-Taichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area in 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response.
+Taichi Furuhashi is passionate about mapping, connecting local communities with maps and sharing knowledge to empower people. As you know, Huge Earthquake and Tsunami destroyed a lot of cities and local communities in East Japan area, 2011. They are trying, how to make more resilient society with Mapping, Panorama/VR and Drone technology. Taichi is a professor of Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response.
 
 ### 200文字版
 青山学院大学教授、NPO法人クライシスマッパーズ・ジャパン理事長、マップコンシェルジュ㈱代表。専門は地図学。地理空間情報の利活用を軸に、Googleジオサービス、オープンソースGIS、オープンデータ(OpenStreetMap、PLATEAU、東京都デジタルツイン等)の技術コンサルティングや教育指導を行なっている。ここ数年は「一億総伊能化」を掲げ、みんなで世界地図をつくるOSMに熱を上げ、360°パノラマ、ドローンを駆使して、地図を作る為にフィールドを駆け巡っている。
