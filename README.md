@@ -24,7 +24,7 @@
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao3.jpg?raw=true" height="200"> <img src="https://user-images.githubusercontent.com/416977/181694759-7e65b9f7-b526-4add-852e-18f3f8514c0b.jpeg" height="200"> <img src="https://user-images.githubusercontent.com/416977/181694779-02c0529b-2fee-4820-b682-6f37ad890f17.jpeg" height="200">
 
 
-## Main Work
+## 1. Main Work
 * Professor of GSC, Aoyama Gakuin University
 * President of CrisisMappers Japan, NPO with DRONEBIRD and JapanFlyingLabs projects
 * President of MAPconcierge Inc.
@@ -36,11 +36,11 @@
 ![Taichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapconcierge)
 
 
-## Graphic Recording
+## 2. Graphic Recording
 <img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg width=200><img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg width=200>
 
 
-## Profile/Bio
+## 3. Profile/Bio
 
 << Bio >>
 ### In English
@@ -57,7 +57,7 @@ Taichi Furuhashi is passionate about mapping, connecting local communities with 
 
 
 
-## Licenses
+## 4. Licenses
 <p>
   <li><a href="https://www.jafta.or.jp/contents/jouhoushi/">森林情報士 GIS１級/リモートセンシング1級</a></li>
 </p>
