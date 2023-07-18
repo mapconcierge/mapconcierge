@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p>
-  <img src="https://github.com/mapconcierge/mapconcierge/assets/416977/54d77729-10e4-4892-bd46-87004d42ce1f" width="100">
-</p>
-
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao2.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao_remini.jpg?raw=true" height="200">
 
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao3.jpg?raw=true" height="200"> <img src="https://user-images.githubusercontent.com/416977/181694759-7e65b9f7-b526-4add-852e-18f3f8514c0b.jpeg" height="200"> <img src="https://user-images.githubusercontent.com/416977/181694779-02c0529b-2fee-4820-b682-6f37ad890f17.jpeg" height="200">
@@ -58,3 +54,26 @@ Taichi Furuhashi is passionate about mapping, connecting local communities with 
 
 ### 400文字版
 青山学院大学 地球社会共生学部 教授、マップコンシェルジュ株式会社 代表取締役社長、NPO法人クライシスマッパーズ・ジャパン理事長、東京大学空間情報科学研究センター 協力研究員、オープンストリートマップ・ファウンデーション・ジャパン/OSGeo財団日本支部所属。東京大学大学院新領域創成科学研究科修了（環境学修士）。専門は森林リモートセンシング。地理空間情報の利活用を軸に、Googleジオサービス、オープンソースGIS(FOSS4G)、オープンデータ(OpenStreetMap)の技術コンサルティングや教育指導を行なっている。ここ数年は「一億総伊能化」をキーワードにみんなで世界地図をつくるOpenStreetMapに熱を上げ、GPS、パノラマデバイス(GigaPan)、無人航空機(UAV/Drone)を駆使して、地図を作るためにフィールドを駆け巡っている。
+
+
+
+## Licenses
+<p>
+  <li><a href="https://www.jafta.or.jp/contents/jouhoushi/">森林情報士 GIS１級/リモートセンシング1級</a></li>
+</p>
+
+<p>
+  <li><img src="https://github.com/mapconcierge/mapconcierge/assets/416977/54d77729-10e4-4892-bd46-87004d42ce1f" width="100"></li>
+</p>
+
+<p>
+  <li>高校教員免許＜理科＞ ｜ 教育実習先： 東京都立府中西高等学校＜地学＞（1998年）</li>
+</p>
+
+<p>
+  <li>学芸員資格 ｜ 博物館実習先： 東京都高尾自然科学博物館（1998年）</li>
+</p>
+
+<p>
+  <li>測量士補資格 ｜ 測量実習先： 東京都立大学</li>
+</p>
