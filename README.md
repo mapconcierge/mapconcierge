@@ -42,7 +42,7 @@
 
 ## 3. Profile/Bio
  * 本名： 古橋 大地（ふるはし たいち）, Taichi Furuhashi
- * 本務： 青山学院大学 地球社会共生学部 教授
+ * 本務： 青山学院大学 地球社会共生学部 教授, Professor of School of Global Studies and Collaboration, Aoyama Gakuin University
 
 << Bio >>
 ### In English
