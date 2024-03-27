@@ -25,9 +25,9 @@
 
 
 ## 1. Main Work
-* Professor of The School of Global Studies and Collaboration, Aoyama Gakuin University, 青山学院大学 地球社会共生学部 教授
-* President of CrisisMappers Japan, NPO with DRONEBIRD and JapanFlyingLabs projects, NPO法人クライシスマッパーズ・ジャパン 理事長
-* President of MAPconcierge Inc., マップコンシェルジュ株式会社 代表取締役社長
+* Professor of The School of Global Studies and Collaboration, Aoyama Gakuin University<br> 青山学院大学 地球社会共生学部 教授
+* President of CrisisMappers Japan, NPO with DRONEBIRD and JapanFlyingLabs projects<br> NPO法人クライシスマッパーズ・ジャパン 理事長
+* President of MAPconcierge Inc.<br> マップコンシェルジュ株式会社 代表取締役社長
 
 * Public CV: http://goo.gl/lcx6wH
 * Photo/Image: http://goo.gl/XPvkGh
