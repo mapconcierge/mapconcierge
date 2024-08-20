@@ -82,3 +82,15 @@ Taichi Furuhashi is passionate about mapping, connecting local communities with 
 <p>
   <li>測量士補資格 ｜ 測量実習先： 東京都立大学</li>
 </p>
+
+## 5. Award
+ * The Association of Japanese Geographers Award 2023, Crisis Mapping
+ * Japan Cartographers Association Award 2022, Ukraine GEOINT
+ * Japan Cartographers Association Award 2021, ICC2019
+ * Japan Cartographers Association Award 2018, OpenStreetMap
+ * Good Design Award 2017, G-SPASE
+ * Good Design Award 2014, OpenStreetMap
+ * Ars Electronica 2013, Great East Japan Earthquake Archive
+ * Good Design Award 2013, Great East Japan Earthquake Archive
+ * JICA Chairman's Award 2012 Alos4Amazon
+ * UN Mapper of the Month - August 2024
