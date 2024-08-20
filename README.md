@@ -84,7 +84,7 @@ Taichi Furuhashi is passionate about mapping, connecting local communities with 
 </p>
 
 ## 5. Award
- * [UN Mapper of the Month - August 2024](https://mappers.un.org/news/blog/2024/08/UN-Mapper-of-the-month)
+ * [UN Mapper of the Month - August 2024](https://mappers.un.org/news/blog/2024/08/UN-Mapper-of-the-month) [PDF](https://github.com/mapconcierge/mapconcierge/blob/master/documents/awards/UNMappersoftheMonth202408_TaichiFuruhashi.pdf)
  * [The Association of Japanese Geographers Award 2023, Crisis Mapping](https://www.ajg.or.jp/award_grant/awards/shakaikouken/)
  * [Japan Cartographers Association Award 2022, Ukraine GEOINT](https://jcacj.org/jcacjaward.html)
  * [Japan Cartographers Association Award 2021, ICC2019](https://jcacj.org/jcacjaward.html)
