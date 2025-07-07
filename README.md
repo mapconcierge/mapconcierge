@@ -6,9 +6,7 @@
   <a href="https://github.com/mapconcierge/mapconcierge/">
     <img src="https://komarev.com/ghpvc/?username=mapconcierge" alt="mapconcierge" />
   </a>
-  <a href="http://twitter.com/mapconcierge">
-    <img height="20" src="https://img.shields.io/twitter/follow/mapconcierge?label=Twitter&logo=twitter&style=flat" />
-  </a>
+  
   <a href="https://github.com/mapconcierge">
     <img height="20" src="https://img.shields.io/github/followers/mapconcierge?label=follow&logo=github&style=flat" />
   </a>
