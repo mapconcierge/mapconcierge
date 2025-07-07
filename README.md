@@ -1,5 +1,7 @@
 # Taichi Furuhashi a.k.a @mapconcierge [💊](https://github.com/mapconcierge/PrescriptionRecord4taichi/tree/master)
 
+[![mapconcierge's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapconcierge&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left"> 
   <a href="https://github.com/mapconcierge/mapconcierge/">
     <img src="https://komarev.com/ghpvc/?username=mapconcierge" alt="mapconcierge" />
