@@ -36,9 +36,6 @@
 * Photo/Image: http://goo.gl/XPvkGh
 * Google Scholar Profile: http://goo.gl/46yTjx
 
-![Taichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapconcierge)
-
-
 ## 2. Graphic Recording
 <img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg width=200><img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg width=200>
 
