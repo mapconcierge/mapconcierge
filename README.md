@@ -2,8 +2,8 @@
 
 [![mapconcierge's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapconcierge&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mapconcierge&repo=GPXtrackSplitter)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mapconcierge&repo=GPXdrawingTool)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mapconcierge&repo=GPXtrackSplitter)](https://github.com/mapconcierge/GPXtrackSplitter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mapconcierge&repo=GPXdrawingTool)](https://github.com/mapconcierge/GPXdrawingTool)
 
 
 <p align="left"> 
