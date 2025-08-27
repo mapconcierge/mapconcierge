@@ -30,7 +30,7 @@
 
 ## 1. Main Work
 * Professor of The School of Global Studies and Collaboration, Aoyama Gakuin University<br> 青山学院大学 地球社会共生学部/革新技術と社会共創研究所 教授
-* Visiting Professor of Politecnico di Milano, [GEOlab](https://www.gisgeolab.polimi.it/pages/team.html)<br> ミラノ工科大学 客員教授 
+* Visiting Professor of Politecnico di Milano, [🌍️GEOlab](https://www.gisgeolab.polimi.it/pages/team.html)<br> ミラノ工科大学 客員教授 
 * President of CrisisMappers Japan, NPO with DRONEBIRD and JapanFlyingLabs projects<br> NPO法人クライシスマッパーズ・ジャパン 理事長
 * President of MAPconcierge Inc.<br> マップコンシェルジュ株式会社 代表取締役社長
 
