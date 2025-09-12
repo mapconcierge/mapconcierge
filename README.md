@@ -8,6 +8,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furuhashilab&repo=TokyoEYESonMilano2025)](https://github.com/furuhashilab/TokyoEYESonMilano2025)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=furuhashilab&repo=Ukraine2022data)](https://github.com/furuhashilab/Ukraine2022data)
+
 
 <p align="left"> 
   <a href="https://github.com/mapconcierge/mapconcierge/">
