@@ -33,6 +33,7 @@
 * Public CV: http://goo.gl/lcx6wH
 * Photo/Image: http://goo.gl/XPvkGh
 * Google Scholar Profile: http://goo.gl/46yTjx
+* ORCID: https://orcid.org/0009-0003-9272-9842
 
 ## 2. Graphic Recording
 <img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_EricGandersenSCAN-1275.jpg width=200><img src=https://github.com/furuhashilab/grareco/raw/master/ICC2019TOKYO/ICC2019TOKYO_AyakoKagawa.jpg width=200>
@@ -44,7 +45,6 @@
 << Bio >>
 ### In English
 Taichi Furuhashi is passionate about mapping, connecting local communities with maps, and sharing knowledge to empower people. As you know, the Huge Earthquake and Tsunami destroyed a lot of cities and local communities in the East Japan area, 2011. He and local people are trying, how to make a more resilient society with Mapping, Panorama/VR, and Drone technology. Taichi is a professor at Aoyama Gakuin University and President of CrisisMappers Japan, NPO. Now he has started DRONEBIRD project with drones for Disaster Crisis Response, supported by WeRobotics/FlyingLabsNetwork. In addition, he has worked as advisory board chairman of Project PLATEAU as 3D Digital Twin.
-
 
 ### 150文字版
 青山学院大学教授。「一億総伊能化」を掲げ地理空間情報の利活用を軸に、Googleジオサービス、FOSS4G、オープンデータ(OpenStreetMap、PLATEAU、東京都デジタルツイン等)の技術コンサルティングや教育指導に従事。360°カメラやドローンを駆使してフィールドを駆け巡っている。
