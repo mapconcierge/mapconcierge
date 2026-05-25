@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## 0. Face photo
+## 0. Face Photos
 
 <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao2.jpg?raw=true" height="200"> <img src="https://github.com/mapconcierge/mapconcierge/blob/master/img/taichifuruhashi_kao_remini.jpg?raw=true" height="200">
 
