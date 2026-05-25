@@ -98,3 +98,4 @@ Taichi Furuhashi is passionate about mapping, connecting local communities with 
 
 ## 6. Private
  * [個人の公開おくすり手帳リポジトリ](https://github.com/mapconcierge/PrescriptionRecord4taichishealthcare)
+ * [幼少期のキオク](https://github.com/mapconcierge/Memoriesofchildhood)
